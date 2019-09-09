@@ -9,7 +9,7 @@ import (
 // FLU is a namespace.
 type FLU mg.Namespace
 
-// Deploy3 deploys stuff.
-func (FLU) Deploy3() {
-	fmt.Println("deploy3 from FLU")
+// Deploy4 deploys stuff.
+func (FLU) Deploy4() {
+	fmt.Println("deploy4 from FLU")
 }
